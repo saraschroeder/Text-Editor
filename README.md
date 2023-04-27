@@ -32,11 +32,7 @@ To utilize the application through the command line (once dependencies are insta
 3. Access the port on your local host.
 4. Click on the "Install" button.
 
-![alt text]()
-![alt text]()
-![alt text]()
-
-[Walkthrough]()
+![alt text](./images/Screenshot1.png)
 
 ## Credits
 
